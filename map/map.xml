@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SceneData version="v1.0">
+    <GraphicsItemList>
+        <Path num="1" type="1" x="10" y="10"/>
+        <Path num="1" type="2" x="1900" y="10"/>
+        <Path num="1" type="1" x="1900" y="10"/>
+        <Path num="1" type="2" x="1900" y="1200"/>
+        <Path num="1" type="1" x="1900" y="1200"/>
+        <Path num="1" type="2" x="10" y="1200"/>
+        <Path num="1" type="1" x="10" y="1200"/>
+        <Path num="1" type="2" x="10" y="10"/>
+        <Path num="2" type="1" x="300" y="290"/>
+        <Path num="2" type="2" x="1600" y="290"/>
+        <Path num="2" type="1" x="1600" y="290"/>
+        <Path num="2" type="2" x="1600" y="900"/>
+        <Path num="2" type="1" x="1600" y="900"/>
+        <Path num="2" type="2" x="300" y="900"/>
+        <Path num="2" type="1" x="300" y="900"/>
+        <Path num="2" type="2" x="300" y="290"/>
+    </GraphicsItemList>
+</SceneData>
